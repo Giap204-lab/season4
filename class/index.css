@@ -1,0 +1,12 @@
+header {
+    background-color: aqua;
+}
+/*  */
+section > div {
+    color: rgb(184, 40, 85);
+}
+.section li:first-child {
+    width: 100px;
+    height: 100%;
+    background: red !important;
+}

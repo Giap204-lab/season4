@@ -1,0 +1,38 @@
+.box {
+    width: 50px;
+    left: 50px;
+    background-color: aqua;
+}
+
+.rikei {
+    color: gold;
+    width: 20px;
+}
+
+#tieude {
+    color: red;
+
+    text-align: center;
+}
+
+#vanban {
+    text-align: center;
+    background-color: aqua;
+    border: 25px solid blue;
+}
+.italic {
+    font-style: italic;
+    font-size: 30px;
+}
+div {
+    width: 300px;
+    border: 25px solid green;
+    padding: 25px;
+    margin: 25px;
+}
+#box {
+    width: 100%;
+    border: 25px solid blueviolet;
+    padding: 25px;
+    margin: 25px;
+}
