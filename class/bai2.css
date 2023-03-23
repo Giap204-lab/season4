@@ -10,3 +10,10 @@
     font-style: oblique;
     color: yellow;
 }
+#box {
+    background-color: rgb(242, 242, 190);
+    width: 1000px;
+    height: 400px;
+    margin: 20px;
+    border: 20px;
+}
