@@ -1,0 +1,45 @@
+#menu {
+    text-align: center;
+}
+#body {
+    margin: auto;
+    width: 900px;
+    height: 400px;
+}
+a {
+    font-size: 50px;
+}
+#dora {
+    text-align: left;
+}
+#box1 {
+    background-color: ;
+    width: 1500px;
+    height: 700px;
+    text-align: center;
+}
+
+#boximg {
+    text-align: center;
+}
+
+#boximg2 {
+    width: 500px;
+}
+.p {
+    background-color: aqua;
+}
+.document {
+    background-color: yellow;
+}
+#imgson {
+    text-align: center;
+    width: 500px;
+}
+#son {
+    background-color: yellow;
+}
+#ghost {
+    text-align: center;
+    background-color: rgb(208, 28, 28);
+}
